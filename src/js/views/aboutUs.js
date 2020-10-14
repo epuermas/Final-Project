@@ -67,14 +67,16 @@ export const AboutUs = () => {
 				{/* About us - creator #3*/}
 				<div className="aboutUs-creator-three">
 					<img className="aboutUs-creator-three-img" src="https://i.imgur.com/lwg5om9.jpg" />
-					<h5 className="aboutUs-creator-three-name">Ernesto Milanes</h5>
+					<h5 className="aboutUs-creator-three-name">Eduardo Puermas</h5>
 					<p className="aboutUs-creator-three-description">
-						I am a recent coding bootcamp graduate. I first became interested in programing at the age of 13
-						trying to develop a game in Python. I didnt have any proper guidance, so I became discouraged.
-						One day my step-father who is a cyber security specialist reintroduced me to the world of
-						coding, and I was hooked. After that I joined the 4Geeks coding bootcamp, I met likeminded
-						individuals who were also persuing a career in web development and realized the growth and
-						potential of the industry. I know now this is what I want to do.
+						Dedicated web developer with a background in the legal field, constantly learning and using the
+						latest front-end and back-end technologies. Excited about opportunities where experience can
+						best be leveraged towards working on projects in a team environment.
+						<br />
+						<br />
+						Mainly focused on HTML, CSS, Javascript (ECMAScript 2016+), React.js, Git, Python, Flask,
+						Node.js, MySQL. I am also experienced in using frameworks such as Bootstrap, Material UI, and
+						NPM Libraries.
 					</p>
 				</div>
 			</div>
