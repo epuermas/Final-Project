@@ -24,7 +24,7 @@ export const Footer = () => {
 							<li>
 								<a
 									className="footer-link"
-									href="https://github.com/Frrimix/supergig-final-project-front-end"
+									href="https://github.com/epuermas/SuperGig-FrontEnd"
 									rel="noopener noreferrer"
 									target="_blank">
 									Repository
