@@ -52,7 +52,7 @@ export const AboutUs = () => {
 					</p>
 				</div>
 				{/* About us - creator #2*/}
-				<div className="aboutUs-creator-two">
+				{/* <div className="aboutUs-creator-two">
 					<img className="aboutUs-creator-two-img" src="https://i.imgur.com/VRn80IA.jpg" />
 					<h5 className="aboutUs-creator-two-name">Paola Castro</h5>
 					<p className="aboutUs-creator-two-description">
@@ -63,7 +63,7 @@ export const AboutUs = () => {
 						For this, I must constantly keep learning and practicing. I was the least technological person
 						in the world so if I can do it anyone can.
 					</p>
-				</div>
+				</div> */}
 				{/* About us - creator #3*/}
 				<div className="aboutUs-creator-three">
 					<img className="aboutUs-creator-three-img" src="https://i.imgur.com/lwg5om9.jpg" />
