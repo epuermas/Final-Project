@@ -51,19 +51,6 @@ export const AboutUs = () => {
 						changing the world, I see myself as a web developer and want to be part of the changing world.
 					</p>
 				</div>
-				{/* About us - creator #2*/}
-				{/* <div className="aboutUs-creator-two">
-					<img className="aboutUs-creator-two-img" src="https://i.imgur.com/VRn80IA.jpg" />
-					<h5 className="aboutUs-creator-two-name">Paola Castro</h5>
-					<p className="aboutUs-creator-two-description">
-						I am a wife and a mother of two children, I studied Advertising and have worked in Marketing
-						ever since. I became interested in coding by seeing my brother code. A dear friend once told me
-						that if I knew Excel I could learn. From that day the story changed, I now love coding! It has
-						cost me a lot of work, time, and sacrifices but I will not be content until I achieve my goal.
-						For this, I must constantly keep learning and practicing. I was the least technological person
-						in the world so if I can do it anyone can.
-					</p>
-				</div> */}
 				{/* About us - creator #3*/}
 				<div className="aboutUs-creator-three">
 					<img className="aboutUs-creator-three-img" src="https://i.imgur.com/lwg5om9.jpg" />
