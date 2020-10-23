@@ -7,7 +7,7 @@ import GoogleMapReact, { Marker } from "google-map-react";
 import Geocode from "react-geocode";
 
 // set Google Maps Geocoding API for purposes of quota management. Its optional but recommended.
-Geocode.setApiKey(process.env.GEOCODER_API_KEY);
+Geocode.setApiKey("AIzaSyCjV5S1bkd7RssX1Z7cytvypvQAgchTt8A");
 
 // Importing styles*/
 import "../../styles/googleMaps.scss";
