@@ -29,5 +29,3 @@ Add more files into your `./src/js/views` and import them in `./src/js/layout.js
 ### Context
 This boilerplate comes with a centralized general Context API. The file `./src/js/store/flux.js` has a base structure for the store, we encourage you to change it and adapt it to your needs.
 
-React Context [docs](https://reactjs.org/docs/context.html)
-BreathCode Lesson [view](https://content.breatheco.de/lesson/react-hooks-explained)
