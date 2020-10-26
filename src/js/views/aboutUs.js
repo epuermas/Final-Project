@@ -36,7 +36,6 @@ export const AboutUs = () => {
 			{/* About us creators title */}
 			<h3 className="aboutUs-creators-title">Meet The Developers</h3>
 			<div className="aboutUs-creators-photos d-flex justify-content-around">
-				{/* About us creators image, name, and description */}
 				{/* About us - creator #1*/}
 				<div className="aboutUs-creator-one">
 					<img className="aboutUs-creator-one-img" src="https://i.imgur.com/ua8p0aG.jpg" />
