@@ -8,7 +8,6 @@ export const Context = React.createContext(null);
 // https://github.com/4GeeksAcademy/react-hello-webapp/blob/master/src/js/layout.js#L35
 const injectContext = PassedComponent => {
 	const StoreWrapper = props => {
-		
 		const [state, setState] = useState(
 			getState({
 				getStore: () => state.store,

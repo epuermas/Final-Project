@@ -1,3 +1,5 @@
+Supergig is a web-app that allows users to post short-term gigs. Job seekers can then go on the website and review the jobs available and contact the posting user if they wish to complete them.
+
 ### Requirements:
 - Make sure you are using node version 10
 
