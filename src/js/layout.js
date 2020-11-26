@@ -68,7 +68,7 @@ const Layout = () => {
 							</Route>
 							{/* The route below takes you to not found */}
 							<Route>
-								<h1>Not found!</h1>
+								<h1>You seem to be lost!</h1>
 							</Route>
 						</Switch>
 					</ScrollToTop>
