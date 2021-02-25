@@ -70,7 +70,7 @@ export const JobPostingForm = () => {
 							onChange={e => setJob_description(e.target.value)}
 							as="textarea"
 							rows="7"
-							placeholder="Job Description"
+							placeholder="Job Description - please include contact info"
 						/>
 					</Form.Group>
 

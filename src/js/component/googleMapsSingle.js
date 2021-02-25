@@ -15,7 +15,6 @@ import "../../styles/googleMaps.scss";
 const markerStyle = {
 	height: "15px",
 	width: "15px",
-	// backgroundImage: "url('https://i.imgur.com/w49gAO2.png')",
 	backgroundColor: "red",
 	borderRadius: "50%"
 };

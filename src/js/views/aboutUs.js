@@ -36,7 +36,6 @@ export const AboutUs = () => {
 			{/* About us creators title */}
 			<h3 className="aboutUs-creators-title">Meet The Developers</h3>
 			<div className="aboutUs-creators-photos d-flex justify-content-around">
-				{/* About us creators image, name, and description */}
 				{/* About us - creator #1*/}
 				<div className="aboutUs-creator-one">
 					<img className="aboutUs-creator-one-img" src="https://i.imgur.com/ua8p0aG.jpg" />
@@ -51,32 +50,21 @@ export const AboutUs = () => {
 						changing the world, I see myself as a web developer and want to be part of the changing world.
 					</p>
 				</div>
-				{/* About us - creator #2*/}
-				<div className="aboutUs-creator-two">
-					<img className="aboutUs-creator-two-img" src="https://i.imgur.com/VRn80IA.jpg" />
-					<h5 className="aboutUs-creator-two-name">Paola Castro</h5>
-					<p className="aboutUs-creator-two-description">
-						I am a wife and a mother of two children, I studied Advertising and have worked in Marketing
-						ever since. I became interested in coding by seeing my brother code. A dear friend once told me
-						that if I knew Excel I could learn. From that day the story changed, I now love coding! It has
-						cost me a lot of work, time, and sacrifices but I will not be content until I achieve my goal.
-						For this, I must constantly keep learning and practicing. I was the least technological person
-						in the world so if I can do it anyone can.
+				{/* About us - creator #3*/}
+				<div className="aboutUs-creator-three">
+					<img className="aboutUs-creator-three-img" src="https://i.imgur.com/lwg5om9.jpg" />
+					<h5 className="aboutUs-creator-three-name">Eduardo Puermas</h5>
+					<p className="aboutUs-creator-three-description">
+						Dedicated web developer with a background in the legal field, constantly learning and using the
+						latest front-end and back-end technologies. Excited about opportunities where experience can
+						best be leveraged towards working on projects in a team environment.
+						<br />
+						<br />
+						Mainly focused on HTML, CSS, Javascript (ECMAScript 2016+), React.js, Git, Python, Flask,
+						Node.js, MySQL. I am also experienced in using frameworks such as Bootstrap, Material UI, and
+						NPM Libraries.
 					</p>
 				</div>
-				{/* About us - creator #3*/}
-				{/* <div className="aboutUs-creator-three">
-					<img className="aboutUs-creator-three-img" src="https://i.imgur.com/YdCSEBA.jpg" />
-					<h5 className="aboutUs-creator-three-name">Ernesto Milanes</h5>
-					<p className="aboutUs-creator-three-description">
-						I am a recent coding bootcamp graduate. I first became interested in programing at the age of 13
-						trying to develop a game in Python. I didnt have any proper guidance, so I became discouraged.
-						One day my step-father who is a cyber security specialist reintroduced me to the world of
-						coding, and I was hooked. After that I joined the 4Geeks coding bootcamp, I met likeminded
-						individuals who were also persuing a career in web development and realized the growth and
-						potential of the industry. I know now this is what I want to do.
-					</p>
-				</div> */}
 			</div>
 			{/* About us - Company Logo */}
 			<div className="aboutUs-company-logo-container d-flex justify-content-center">
