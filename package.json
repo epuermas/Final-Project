@@ -73,6 +73,7 @@
 		"agentkeepalive": "^4.1.4",
 		"axios": "^0.21.1",
 		"bootstrap": "^4.5.2",
+		"chokidar": "^3.5.1",
 		"google-map-react": "^2.1.7",
 		"google-maps-react": "^2.0.6",
 		"prop-types": "^15.7.2",
